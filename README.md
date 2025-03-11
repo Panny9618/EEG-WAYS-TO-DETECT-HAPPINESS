@@ -15,3 +15,4 @@ References:
 If you use SEED-VIG in your research, please cite our following paper:
 Wei-Long Zheng, Wei Liu, Yifei Lu, Bao-Liang Lu, and Andrzej Cichocki, EmotionMeter: A Multimodal Framework for Recognizing Human Emotions. IEEE Transactions on Cybernetics, 2018.
 
+ https://panny9618.github.io/EEG-WAYS-TO-DETECT-HAPPINESS/
